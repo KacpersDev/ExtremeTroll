@@ -1,0 +1,25 @@
+name: ExtremeTroll
+version: 0.1
+main: me.timp.Main
+description: Troll Plugin
+commands:
+  RankTroll:
+  OpTroll:
+  RemoveOpTroll:
+  RemoveRankTroll:
+  ChatTroll:
+  FlyTroll:
+  FlyTrollRemove:
+  InventoryTroll:
+  BlacklistTroll:
+  DamageTroll:
+  SpeedTroll:
+  Author:
+  SlownessTroll:
+  UnSlownessTroll:
+  UnSpeedTroll:
+  HackedTroll:
+  MoneyTroll:
+  MoneyRemoveTroll:
+  ChatTroll2:
+  ChatTroll3:
